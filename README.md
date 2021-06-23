@@ -1,1 +1,1 @@
-# Harsh-C-10
+# C10-project-template
